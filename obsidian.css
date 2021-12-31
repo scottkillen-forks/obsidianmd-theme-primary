@@ -417,23 +417,23 @@ Custom Icons
 
 /*──────────The PRIMARY Color Palette for Light Theme──────────*/
 
---color-l-whiter: hsl(36, 36%, 96.9%);
+--color-l-whiter: hsl(324, 33%, 96.9%);
 
---color-l-white: hsl(35, 36%, 95%);
+--color-l-white: hsl(327, 36%, 95%);
 
 --color-l-gray: var(--color-l-gray-50);
---color-l-gray-10: hsl(36, 37%, 92%);
---color-l-gray-20: hsl(35, 35%, 90%);
---color-l-gray-30: hsl(34, 36%, 88%);
---color-l-gray-40: hsl(36, 34%, 85%);
---color-l-gray-50: hsl(34, 37%, 70%);
---color-l-gray-60: hsl(34, 28%, 60%);
---color-l-gray-70: hsl(31, 23%, 46%);
---color-l-gray-80: hsl(34, 27%, 40%);
---color-l-gray-90: hsl(34, 30%, 37%);
---color-l-gray-100: hsl(35, 32%, 30%);
+--color-l-gray-10: hsl(324, 37%, 92%);
+--color-l-gray-20: hsl(325, 33%, 90%);
+--color-l-gray-30: hsl(325, 35%, 88%);
+--color-l-gray-40: hsl(326, 34%, 88%);
+--color-l-gray-50: hsl(326, 37%, 70%);
+--color-l-gray-60: hsl(326, 28%, 60%);
+--color-l-gray-70: hsl(329, 23%, 46%);
+--color-l-gray-80: hsl(326, 27%, 40%);
+--color-l-gray-90: hsl(326, 30%, 37%);
+--color-l-gray-100: hsl(325, 32%, 30%);
 
---color-l-black: hsl(31, 45%, 20%);
+--color-l-black: hsl(329, 45%, 20%);
 
 --color-l-shadow-10:    hsla(180, 1.7%, 20%, 10%);
 --color-l-shadow-50:    hsla(180, 1.7%, 20%, 30%);
@@ -535,22 +535,22 @@ Custom Icons
 
 /*──────────The PRIMARY Color Palette for Dark Theme──────────*/
 
---color-d-white: hsl(34, 50%, 80%);
+--color-d-white: hsl(326, 50%, 80%);
 
 --color-d-gray: var(--color-d-gray-50);
---color-d-gray-10: hsl(34, 18%, 62%); /* Text Faint */
---color-d-gray-20: hsl(35, 27%, 55%); /* Tree Item */
---color-d-gray-30: hsl(34, 24%, 30%); /* Text Disabled */
---color-d-gray-40: hsl(33, 20%, 30%); /* Icon Disabled */
---color-d-gray-50: hsl(33, 20%, 20%); /* Border */
---color-d-gray-60: hsl(32, 22%, 15%); /* Select Tree Item BG */
---color-d-gray-70: hsl(27, 14%, 15%); /* Note BG */
---color-d-gray-80: hsl(32, 19%, 13%); /* Status Bar */
---color-d-gray-90: hsl(30, 15%, 13%); /* Codes/ YAML*/
+--color-d-gray-10: hsl(326, 18%, 62%); /* Text Faint */
+--color-d-gray-20: hsl(325, 27%, 55%); /* Tree Item */
+--color-d-gray-30: hsl(326, 24%, 30%); /* Text Disabled */
+--color-d-gray-40: hsl(327, 20%, 30%); /* Icon Disabled */
+--color-d-gray-50: hsl(327, 20%, 20%); /* Border */
+--color-d-gray-60: hsl(328, 22%, 15%); /* Select Tree Item BG */
+--color-d-gray-70: hsl(333, 14%, 15%); /* Note BG */
+--color-d-gray-80: hsl(328, 19%, 13%); /* Status Bar */
+--color-d-gray-90: hsl(330, 15%, 13%); /* Codes/ YAML*/
 
---color-d-black: hsl(27, 15%, 12%); /* Tabs BG */
+--color-d-black: hsl(333, 15%, 12%); /* Tabs BG */
 
---color-d-blacker: hsl(26, 16%, 9%); /* Shadow */
+--color-d-blacker: hsl(334, 16%, 9%); /* Shadow */
 
 --color-d-shadow-10:    rgba(0, 0, 0, 0.45);
 --color-d-shadow-50:    rgba(0, 0, 0, 0.75);
